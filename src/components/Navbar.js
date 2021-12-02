@@ -23,7 +23,7 @@ const Navbar = () => {
 const Wrapper = styled.nav`
   padding: 1.5rem;
   margin-bottom: 4rem;
-  background: var(--clr-white);
+  background: var(--clr-grey-11);
   text-align: center;
   display: grid;
   grid-template-columns: auto auto 100px;

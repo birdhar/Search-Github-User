@@ -26,6 +26,12 @@ const Wrapper = styled.section`
   }
   h1 {
     margin-bottom: 1.5rem;
+    color: white;
+  }
+  button {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
   }
 `;
 export default Login;

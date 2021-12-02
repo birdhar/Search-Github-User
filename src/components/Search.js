@@ -76,7 +76,7 @@ const Wrapper = styled.div`
       padding: 0.25rem 0.5rem;
       text-transform: capitalize;
       letter-spacing: var(--spacing);
-      background: var(--clr-primary-5);
+      background: var(--clr-primary-3);
       color: var(--clr-white);
       transition: var(--transition);
       cursor: pointer;
@@ -104,7 +104,7 @@ const Wrapper = styled.div`
   }
   h3 {
     margin-bottom: 0;
-    color: var(--clr-grey-5);
+    color: var(--clr-white);
     font-weight: 400;
   }
 `;
